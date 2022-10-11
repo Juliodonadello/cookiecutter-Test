@@ -13,6 +13,7 @@ Para clonar y hacer uso de los archivos de creación del entorno (**environment.
 
 Para instalar el proyecto con el que vamos a estar trabajando:
 >conda env create --file environment.yml
+>
 >conda activate "project_slug" 
 
 
