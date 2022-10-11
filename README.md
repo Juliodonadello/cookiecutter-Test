@@ -10,7 +10,7 @@ By: {{ cookiecutter.project_author_name }}
 
 Para clonar este repositorio usando y hacer uso de los archivos de creación del entorno (**environment.yml**), de configuracion del repo(**cookiecutter.json**) y acciones personalizadas (**hooks**):
 
-> cookiecutter "url_del_repo" 
+> cookiecutter "https://github.com/Juliodonadello/cookiecutter-Test.git" 
 
   
 ## Installation guide
