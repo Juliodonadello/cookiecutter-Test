@@ -1,0 +1,7 @@
+name: modelos
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=1.7.3
+prefix: C:\Users\jdonadel\Anaconda3\envs\modelos
