@@ -16,6 +16,7 @@ Para instalar el proyecto con el que vamos a estar trabajando:
 >
 >conda activate "project_slug" 
 
+Y ya está listo para trabajar.
 
 ## Installation guide
 
