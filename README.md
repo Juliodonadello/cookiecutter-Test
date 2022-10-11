@@ -19,11 +19,11 @@ Please read [install.md](install.md) for details on how to set up this project.
 
 ## Project Organization
 
-* los directorios con # no estan creados *
+*los directorios con # no estan creados*
 
-    #├── tasks.py           <- Invoke with commands like `notebook`.
+    ├── tasks.py#          <- Invoke with commands like `notebook`.
     ├── README.md          <- The top-level README for developers using this project.
-    #├── install.md         <- Detailed instructions to set up this project.
+    ├── install.md#        <- Detailed instructions to set up this project.
     ├── data
     │   ├── external       <- Data from third party sources.
     │   ├── processed        <- Intermediate data that has been transformed.
@@ -34,17 +34,17 @@ Please read [install.md](install.md) for details on how to set up this project.
     │                         the creator's initials, and a short `-` delimited description, e.g.
     │                         `1.0-jqp-initial-data-exploration`.
     │
-    #├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    ├── references#        <- Data dictionaries, manuals, and all other explanatory materials.
     │
-    #├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    ├── reports#            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── figures         <- Generated graphics and figures to be used in reporting.
     │
     ├── environment.yml    <- The requirements file for reproducing the analysis environment.
     │
-    #├── .here              <- File that will stop the search if none of the other criteria
+    ├── .here#              <- File that will stop the search if none of the other criteria
     │                         apply when searching head of project.
     │
-    #├── setup.py           <- Makes project pip installable (pip install -e .)
+    ├── setup.py#           <- Makes project pip installable (pip install -e .)
     │                         so final_project can be imported.
     │
     └── final_project               <- Source code for use in this project.
@@ -61,8 +61,8 @@ Please read [install.md](install.md) for details on how to set up this project.
         │   ├── predict_model.py
         │   └── train_model.py
         │
-        ├── utils          <- Scripts to help with common tasks.
-            └── paths.py   <- Helper functions to relative file referencing across project.
+        ├── utils#         <- Scripts to help with common tasks.
+        │    └── paths.py   <- Helper functions to relative file referencing across project.
         │
         └── visualization  <- Scripts to create exploratory and results oriented visualizations.
             └── visualize.py
