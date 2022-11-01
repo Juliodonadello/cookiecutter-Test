@@ -18,10 +18,6 @@ Para instalar el proyecto con el que vamos a estar trabajando:
 
 Y ya está listo para trabajar.
 
-## Installation guide
-
-Please read [install.md](install.md) for details on how to set up this project.
-
 ## Project Organization
 
 *los directorios con # no estan creados*
