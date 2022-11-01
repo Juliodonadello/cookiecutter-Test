@@ -6,13 +6,13 @@ By: {{ cookiecutter.project_author_name }}
 
 ##  License reserved to Analítica Avanzada & Machine Learning ®
 
-**Esta es una platilla para la creación de repositorios únicos para cada modelo de VertexAI**
-
-Para clonar y hacer uso de los archivos de creación del entorno (**environment.yml**), de configuracion del repo(**cookiecutter.json**) y acciones personalizadas (**hooks**):
+**Esta es una platilla para la creación de repositorios únicos para cada modelo de VertexAI de forma automatizada con cookicutter**
 
 ``` bash
 conda install -c conda-forge cookiecutter
 ```
+
+Para clonar y hacer uso de los archivos de creación del entorno (**environment.yml**), de configuracion del repo(**cookiecutter.json**) y acciones personalizadas (**hooks**):
 
 ``` bash
 cookiecutter https://github.com/Juliodonadello/cookiecutter-Test.git
