@@ -9,13 +9,23 @@ By: {{ cookiecutter.project_author_name }}
 **Esta es una platilla para la creación de repositorios únicos para cada modelo de VertexAI**
 
 Para clonar y hacer uso de los archivos de creación del entorno (**environment.yml**), de configuracion del repo(**cookiecutter.json**) y acciones personalizadas (**hooks**):
->cookiecutter https://github.com/Juliodonadello/cookiecutter-Test.git
+
+``` bash
+conda install -c conda-forge cookiecutter
+```
+
+``` bash
+cookiecutter https://github.com/Juliodonadello/cookiecutter-Test.git
+```
 
 Para instalar el proyecto con el que vamos a estar trabajando:
->conda env create --file environment.yml
->
->conda activate modelos 
 
+``` bash
+conda env create --file environment.yml
+```
+``` bash
+>conda activate modelos 
+```
 Y ya está listo para trabajar.
 
 ## Project Organization
