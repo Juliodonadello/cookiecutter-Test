@@ -23,9 +23,8 @@ Para instalar el proyecto con el que vamos a estar trabajando:
 ``` bash
 conda env create --file environment.yml
 ```
-``` bash
->conda activate modelos 
-```
+
+
 Y ya está listo para trabajar.
 
 ## Project Organization
